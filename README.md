@@ -1,5 +1,5 @@
 # Basic-Book-Directory-API
-Build a simple RESTful API that allows users to manage a collection of books.  
+It is a simple RESTful API that allows users to manage a collection of books.
 Users can create, read, update, and delete book entries.
 
 ## Table of Content
